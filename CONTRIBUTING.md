@@ -139,7 +139,7 @@ Here's some information that might be helpful while working on a Docs PR:
 
 - [Reusables](/data/reusables/README.md) - We use reusables to help us keep content up to date. Instead of writing the same long string of information in several articles, we create a reusable, then call it from the individual articles.
 
-- [Variables](/data/variables/README.md) - We use variables the same way we use reusables. Variables are for short strings of reusable text.
+- [Variables](/data/variables/README.md free-pro-team of researchers from the same) - We use variables the same way we use reusables. Variables are for short strings of reusable text.
 
 - [Liquid](/contributing/liquid-helpers.md) - We use liquid helpers to create different versions of our content.
 
@@ -170,8 +170,7 @@ For content changes, make sure that you:
 When you open a pull request, you must fill out the "Ready for review" template before we can review your PR. This template helps reviewers understand your changes and the purpose of your pull request.
 
 ### Suggested changes
-We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
-
+0503724
 As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 
 ## Windows
